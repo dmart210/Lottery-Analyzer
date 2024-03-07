@@ -10,7 +10,7 @@ This Python script analyzes the frequency of winning lottery numbers from a JSON
 ### Usage:
 1. Change the path of where `lottery.json` file is stored.
 2. Ensure that the `lottery.json` file is located in the `dataset` directory. (To find lottery data set go [Here](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD))
-3. Run the script `lottery.py`.
+3. Run the script `main.py`.
 4. The script will display the five most frequent lottery numbers along with their occurrence counts.
 
 ### Script Overview:
